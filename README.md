@@ -26,7 +26,7 @@
 
 *<h1>Sobre</h1>About*
 
-<img src="https://github.com/AnaLuisaFav/Interactive-rating-component/assets/125583157/2ae8d39b-cd3b-4e51-9697-a889efe168f3" alt="image" style="width: 20px"> O desafio proposto por Natália F., da Alura, foi desenvolver uma réplica da página de perfil do LinkedIn, modo desktop, em sete dias. Acabei me empolgando e terminei antes, no 4º dia! 😅
+<img src="https://github.com/AnaLuisaFav/Interactive-rating-component/assets/125583157/2ae8d39b-cd3b-4e51-9697-a889efe168f3" alt="image" style="width: 20px"> O desafio #7DaysOfCode proposto por Natália F. da Silva, da Alura, foi desenvolver em 7 dias uma réplica da página de perfil do LinkedIn, modo desktop. Acabei me empolgando e terminei antes, no 4º dia! 😅
 
 Neste projeto foi possível treinar conceitos como:
 
@@ -36,7 +36,7 @@ Neste projeto foi possível treinar conceitos como:
 <br>Feliz em ter terminado e aprendido ainda mais! ♥
 
 <img src="https://github.com/AnaLuisaFav/Interactive-rating-component/assets/125583157/7829887e-fb45-4d07-973d-0b4b20dac189" alt="image" style="width: 20px">
-The challenge proposed by Natália F., from Alura, was to develop a replica of the LinkedIn profile page, desktop mode, in seven days. I ended up getting excited and finished before, on the 4th day! 😅
+The #7DaysOfCode challenge proposed by Natália F. da Silva, from Alura, was to develop in 7 days a replica of the LinkedIn profile page, desktop mode. I ended up getting excited and finished before, on the 4th day! 😅
 
 In this project it was possible to train concepts such as:
 
