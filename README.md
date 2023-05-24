@@ -27,10 +27,22 @@
 *<h1>Sobre</h1>About*
 
 <img src="https://github.com/AnaLuisaFav/Interactive-rating-component/assets/125583157/2ae8d39b-cd3b-4e51-9697-a889efe168f3" alt="image" style="width: 20px"> O desafio proposto por Natália F., da Alura, foi desenvolver uma réplica da página de perfil do LinkedIn, modo desktop, em sete dias. Acabei me empolgando e terminei antes, no 4º dia! 😅
+
+Neste projeto foi possível treinar conceitos como:
+
+• Flexbox CSS<br>
+• Posicionamento de elementos<br>
+• Variáveis CSS<br>
 <br>Feliz em ter terminado e aprendido ainda mais! ♥
 
 <img src="https://github.com/AnaLuisaFav/Interactive-rating-component/assets/125583157/7829887e-fb45-4d07-973d-0b4b20dac189" alt="image" style="width: 20px">
 The challenge proposed by Natália F., from Alura, was to develop a replica of the LinkedIn profile page, desktop mode, in seven days. I ended up getting excited and finished before, on the 4th day! 😅
+
+In this project it was possible to train concepts such as:
+
+• Flexbox CSS<br>
+• Positioning of elements<br>
+• CSS Variables<br>
 <br>Glad I finished and learned even more! ♥
 
 *<h1>Feito com</h1>Built with*
