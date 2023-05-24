@@ -22,6 +22,7 @@ header {
 	margin: auto;
 	display: flex;
 	align-items: center;
+	padding: 5px;
 	justify-content: space-between
 }
 
@@ -36,7 +37,7 @@ header {
 
 .separacao {
 	top: 1px;
-	height: 48px;
+	height: 58px;
 	position: absolute;
 }
 
